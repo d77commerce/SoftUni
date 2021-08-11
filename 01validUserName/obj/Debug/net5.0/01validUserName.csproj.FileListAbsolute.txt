@@ -1,0 +1,16 @@
+C:\Users\d77co\source\repos\02race\01validUserName\bin\Debug\net5.0\01validUserName.exe
+C:\Users\d77co\source\repos\02race\01validUserName\bin\Debug\net5.0\01validUserName.deps.json
+C:\Users\d77co\source\repos\02race\01validUserName\bin\Debug\net5.0\01validUserName.runtimeconfig.json
+C:\Users\d77co\source\repos\02race\01validUserName\bin\Debug\net5.0\01validUserName.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\02race\01validUserName\bin\Debug\net5.0\01validUserName.dll
+C:\Users\d77co\source\repos\02race\01validUserName\bin\Debug\net5.0\ref\01validUserName.dll
+C:\Users\d77co\source\repos\02race\01validUserName\bin\Debug\net5.0\01validUserName.pdb
+C:\Users\d77co\source\repos\02race\01validUserName\obj\Debug\net5.0\01validUserName.csproj.AssemblyReference.cache
+C:\Users\d77co\source\repos\02race\01validUserName\obj\Debug\net5.0\01validUserName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d77co\source\repos\02race\01validUserName\obj\Debug\net5.0\01validUserName.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\02race\01validUserName\obj\Debug\net5.0\01validUserName.AssemblyInfo.cs
+C:\Users\d77co\source\repos\02race\01validUserName\obj\Debug\net5.0\01validUserName.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\02race\01validUserName\obj\Debug\net5.0\01validUserName.dll
+C:\Users\d77co\source\repos\02race\01validUserName\obj\Debug\net5.0\ref\01validUserName.dll
+C:\Users\d77co\source\repos\02race\01validUserName\obj\Debug\net5.0\01validUserName.pdb
+C:\Users\d77co\source\repos\02race\01validUserName\obj\Debug\net5.0\01validUserName.genruntimeconfig.cache
