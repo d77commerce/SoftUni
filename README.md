@@ -1,1 +1,1 @@
-# SoftUni-fundamentals C# 
+# SoftUni C# 
