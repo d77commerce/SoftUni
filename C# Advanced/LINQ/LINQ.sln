@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linqTest", "linqTest\linqTest.csproj", "{22102808-40C1-4624-8A37-0AFF3E72722E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linqTest2", "linqTest2\linqTest2.csproj", "{6B7AF5E7-6FF7-46FB-A817-73CFFC84B496}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linqTest3", "linqTest3\linqTest3.csproj", "{EB10E281-FD8C-4BB8-B9C4-EF5E81AD9AA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{22102808-40C1-4624-8A37-0AFF3E72722E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22102808-40C1-4624-8A37-0AFF3E72722E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22102808-40C1-4624-8A37-0AFF3E72722E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B7AF5E7-6FF7-46FB-A817-73CFFC84B496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B7AF5E7-6FF7-46FB-A817-73CFFC84B496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B7AF5E7-6FF7-46FB-A817-73CFFC84B496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B7AF5E7-6FF7-46FB-A817-73CFFC84B496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB10E281-FD8C-4BB8-B9C4-EF5E81AD9AA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB10E281-FD8C-4BB8-B9C4-EF5E81AD9AA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB10E281-FD8C-4BB8-B9C4-EF5E81AD9AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB10E281-FD8C-4BB8-B9C4-EF5E81AD9AA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
