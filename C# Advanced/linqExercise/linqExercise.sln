@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linqExercise", "linqExercise\linqExercise.csproj", "{7288CEDB-150D-42DC-B276-BDD70F9A58E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "agregFunc", "agregFunc\agregFunc.csproj", "{044DF532-E374-445D-961D-E8D122B8118D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "countAndSum", "countAndSum\countAndSum.csproj", "{EE0F20D5-6270-4FD1-A2E3-3AE2AD1A45D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "countAndSum2", "countAndSum2\countAndSum2.csproj", "{4C60BAFF-62C7-4756-9903-2D0A192BAD0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "countUppercaseWords", "countUppercaseWords\countUppercaseWords.csproj", "{948ED71F-7056-44C4-8626-0576931C5B0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vat", "vat\vat.csproj", "{D70C3B23-7D80-4A8B-B730-00019030C2CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7288CEDB-150D-42DC-B276-BDD70F9A58E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7288CEDB-150D-42DC-B276-BDD70F9A58E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7288CEDB-150D-42DC-B276-BDD70F9A58E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7288CEDB-150D-42DC-B276-BDD70F9A58E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{044DF532-E374-445D-961D-E8D122B8118D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{044DF532-E374-445D-961D-E8D122B8118D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{044DF532-E374-445D-961D-E8D122B8118D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{044DF532-E374-445D-961D-E8D122B8118D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE0F20D5-6270-4FD1-A2E3-3AE2AD1A45D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE0F20D5-6270-4FD1-A2E3-3AE2AD1A45D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE0F20D5-6270-4FD1-A2E3-3AE2AD1A45D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE0F20D5-6270-4FD1-A2E3-3AE2AD1A45D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C60BAFF-62C7-4756-9903-2D0A192BAD0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C60BAFF-62C7-4756-9903-2D0A192BAD0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C60BAFF-62C7-4756-9903-2D0A192BAD0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C60BAFF-62C7-4756-9903-2D0A192BAD0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{948ED71F-7056-44C4-8626-0576931C5B0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{948ED71F-7056-44C4-8626-0576931C5B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{948ED71F-7056-44C4-8626-0576931C5B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{948ED71F-7056-44C4-8626-0576931C5B0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D70C3B23-7D80-4A8B-B730-00019030C2CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D70C3B23-7D80-4A8B-B730-00019030C2CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D70C3B23-7D80-4A8B-B730-00019030C2CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D70C3B23-7D80-4A8B-B730-00019030C2CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABFF050D-FDB3-4910-8F4E-E7CCD63A46EB}
+	EndGlobalSection
+EndGlobal
