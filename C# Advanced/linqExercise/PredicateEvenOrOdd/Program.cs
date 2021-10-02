@@ -26,7 +26,7 @@ namespace PredicateEvenOrOdd
                 {
                     if (resultEven(num))
                     {
-                        Console.WriteLine(num);
+                        Console.Write(num+" ");
                     }
                 }
             }
@@ -36,7 +36,7 @@ namespace PredicateEvenOrOdd
                 {
                     if (resultOdd(num))
                     {
-                        Console.WriteLine(num);
+                        Console.Write(num+" ");
                     }
                 }
             }
