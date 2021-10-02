@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace customFunc
 {
@@ -6,7 +7,21 @@ namespace customFunc
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int[] input = Console.ReadLine().Split(" ")
+                .Select(int.Parse).ToArray();
+            Func<int[], int> getSmallNum = numers =>
+            {
+                int minValue = int.MaxValue;
+                foreach (var item in numers)
+                {
+                    if (minValue > item)
+                    {
+                       minValue= item;
+                    }
+                }
+                return minValue;
+            };
+            Console.WriteLine(getSmallNum(input));
         }
     }
 }

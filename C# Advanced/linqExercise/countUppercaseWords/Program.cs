@@ -7,8 +7,8 @@ namespace countUppercaseWords
     {
         static void Main(string[] args)
         {
-            var input = Console.ReadLine().
-                Split(new char[]{' '}, StringSplitOptions.RemoveEmptyEntries);
+            var input = Console.ReadLine()
+                .Split(new char[]{' '}, StringSplitOptions.RemoveEmptyEntries);
             Func<string, bool> wordFunc = word => char.IsUpper(word[0]);
             var upWords = input.Where(wordFunc);
             foreach (var word in upWords)
