@@ -8,21 +8,21 @@ namespace reverseAndExclude
     {
         static void Main(string[] args)
         {
-            int[] input = Console.ReadLine().Split(" ").Select(int.Parse).ToArray();
+           List<int> input = Console.ReadLine().Split(" ").Select(int.Parse).ToList();
             int powerNum = int.Parse(Console.ReadLine());
             caculate(input, powerNum);
         }
-        static void caculate(int[] numbers, int powernum)
+        static void caculate(List<int> numbers, int powernum)
         {
-            var result = new List<int>();
-            for (int i = 0; i < numbers.Length; i++)
+            for (int i = 0; i < numbers.Count; i++)
             {
-                if (numbers[i] % powernum != 0)
+                if (numbers[i] % powernum == 0)
                 {
-                    result.Add(numbers[i]);
+                    numbers.RemoveAt(i);
                 }
             }
-            Console.WriteLine(string.Join(" ", result).Reverse().ToArray());
+          
+            Console.WriteLine(string.Join(" ",numbers).Reverse().ToArray());
         }
     }
 }
