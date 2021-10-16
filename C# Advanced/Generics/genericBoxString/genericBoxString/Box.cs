@@ -11,10 +11,7 @@ namespace genericBoxString
             Type=type;
         }
         public T Type { get; set; }
-        public override string ToString()
-        {
-           return $"{typeof(T)}: {Type}";
-        }
+        public string  result() => $"{typeof(T)}: {Type}";
     }
 
 }

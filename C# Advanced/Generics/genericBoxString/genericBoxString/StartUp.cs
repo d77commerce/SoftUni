@@ -10,7 +10,7 @@ namespace genericBoxString
             for (int i = 0; i < n; i++)
             {
                 Box<int> input = new Box<int>(int.Parse(Console.ReadLine()));
-                Console.WriteLine(input.ToString());
+                Console.WriteLine(input.result());
             }
         }
     }
