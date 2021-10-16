@@ -10,7 +10,14 @@ namespace speedRacing
     //double 
     class Car
     {
-       
+        public Car(string model, double fuelAmount, double fuelConsumptionPerKilometer)
+        {
+            Model = model;
+            FuelAmount = fuelAmount;
+            FuelConsumptionPerKilometer = fuelConsumptionPerKilometer;
+           
+        }
+
         public string Model { get; set; }
         public double FuelAmount { get; set; }
         public double FuelConsumptionPerKilometer { get; set; }
@@ -19,7 +26,7 @@ namespace speedRacing
         {
 
 
-            if (distance * FuelConsumptionPerKilometer >= FuelAmount)
+            if ( FuelAmount>=distance*FuelConsumptionPerKilometer)
             {
                 FuelAmount -= distance * FuelConsumptionPerKilometer;
                 DistanceTravelled += distance;
