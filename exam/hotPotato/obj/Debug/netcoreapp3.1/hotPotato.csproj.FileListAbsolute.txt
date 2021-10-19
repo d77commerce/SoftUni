@@ -1,0 +1,14 @@
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\hotPotato\bin\Debug\netcoreapp3.1\hotPotato.exe
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\hotPotato\bin\Debug\netcoreapp3.1\hotPotato.deps.json
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\hotPotato\bin\Debug\netcoreapp3.1\hotPotato.runtimeconfig.json
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\hotPotato\bin\Debug\netcoreapp3.1\hotPotato.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\hotPotato\bin\Debug\netcoreapp3.1\hotPotato.dll
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\hotPotato\bin\Debug\netcoreapp3.1\hotPotato.pdb
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\hotPotato\obj\Debug\netcoreapp3.1\hotPotato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\hotPotato\obj\Debug\netcoreapp3.1\hotPotato.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\hotPotato\obj\Debug\netcoreapp3.1\hotPotato.AssemblyInfo.cs
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\hotPotato\obj\Debug\netcoreapp3.1\hotPotato.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\hotPotato\obj\Debug\netcoreapp3.1\hotPotato.dll
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\hotPotato\obj\Debug\netcoreapp3.1\hotPotato.pdb
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\hotPotato\obj\Debug\netcoreapp3.1\hotPotato.genruntimeconfig.cache
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\hotPotato\obj\Debug\netcoreapp3.1\hotPotato.csproj.AssemblyReference.cache

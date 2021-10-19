@@ -1,0 +1,14 @@
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\supermarket\bin\Debug\netcoreapp3.1\supermarket.exe
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\supermarket\bin\Debug\netcoreapp3.1\supermarket.deps.json
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\supermarket\bin\Debug\netcoreapp3.1\supermarket.runtimeconfig.json
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\supermarket\bin\Debug\netcoreapp3.1\supermarket.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\supermarket\bin\Debug\netcoreapp3.1\supermarket.dll
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\supermarket\bin\Debug\netcoreapp3.1\supermarket.pdb
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\supermarket\obj\Debug\netcoreapp3.1\supermarket.csproj.AssemblyReference.cache
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\supermarket\obj\Debug\netcoreapp3.1\supermarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\supermarket\obj\Debug\netcoreapp3.1\supermarket.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\supermarket\obj\Debug\netcoreapp3.1\supermarket.AssemblyInfo.cs
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\supermarket\obj\Debug\netcoreapp3.1\supermarket.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\supermarket\obj\Debug\netcoreapp3.1\supermarket.dll
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\supermarket\obj\Debug\netcoreapp3.1\supermarket.pdb
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\supermarket\obj\Debug\netcoreapp3.1\supermarket.genruntimeconfig.cache

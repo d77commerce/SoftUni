@@ -1,0 +1,14 @@
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\printEvenNum\bin\Debug\netcoreapp3.1\printEvenNum.exe
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\printEvenNum\bin\Debug\netcoreapp3.1\printEvenNum.deps.json
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\printEvenNum\bin\Debug\netcoreapp3.1\printEvenNum.runtimeconfig.json
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\printEvenNum\bin\Debug\netcoreapp3.1\printEvenNum.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\printEvenNum\bin\Debug\netcoreapp3.1\printEvenNum.dll
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\printEvenNum\bin\Debug\netcoreapp3.1\printEvenNum.pdb
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\printEvenNum\obj\Debug\netcoreapp3.1\printEvenNum.csproj.AssemblyReference.cache
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\printEvenNum\obj\Debug\netcoreapp3.1\printEvenNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\printEvenNum\obj\Debug\netcoreapp3.1\printEvenNum.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\printEvenNum\obj\Debug\netcoreapp3.1\printEvenNum.AssemblyInfo.cs
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\printEvenNum\obj\Debug\netcoreapp3.1\printEvenNum.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\printEvenNum\obj\Debug\netcoreapp3.1\printEvenNum.dll
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\printEvenNum\obj\Debug\netcoreapp3.1\printEvenNum.pdb
+C:\Users\d77co\source\repos\examAdvance\printEvenNum\printEvenNum\obj\Debug\netcoreapp3.1\printEvenNum.genruntimeconfig.cache
