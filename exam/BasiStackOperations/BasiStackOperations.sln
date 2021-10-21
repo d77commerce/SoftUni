@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasiStackOperations", "BasiStackOperations\BasiStackOperations.csproj", "{27EA1B1C-E4B6-43B0-8586-744319ED0455}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicQueueOperations", "..\BasicQueueOperations\basicQueueOperations\BasicQueueOperations.csproj", "{91F357CC-A8E0-4E90-B467-4443B2DD296E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27EA1B1C-E4B6-43B0-8586-744319ED0455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27EA1B1C-E4B6-43B0-8586-744319ED0455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27EA1B1C-E4B6-43B0-8586-744319ED0455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27EA1B1C-E4B6-43B0-8586-744319ED0455}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91F357CC-A8E0-4E90-B467-4443B2DD296E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F357CC-A8E0-4E90-B467-4443B2DD296E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F357CC-A8E0-4E90-B467-4443B2DD296E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F357CC-A8E0-4E90-B467-4443B2DD296E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76DC2B72-27A8-4B87-8361-674137E7DEC9}
+	EndGlobalSection
+EndGlobal
