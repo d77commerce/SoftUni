@@ -1,0 +1,14 @@
+C:\Users\d77co\source\repos\examAdvance\DiagonalDifference\DiagonalDifference\bin\Debug\netcoreapp3.1\DiagonalDifference.exe
+C:\Users\d77co\source\repos\examAdvance\DiagonalDifference\DiagonalDifference\bin\Debug\netcoreapp3.1\DiagonalDifference.deps.json
+C:\Users\d77co\source\repos\examAdvance\DiagonalDifference\DiagonalDifference\bin\Debug\netcoreapp3.1\DiagonalDifference.runtimeconfig.json
+C:\Users\d77co\source\repos\examAdvance\DiagonalDifference\DiagonalDifference\bin\Debug\netcoreapp3.1\DiagonalDifference.runtimeconfig.dev.json
+C:\Users\d77co\source\repos\examAdvance\DiagonalDifference\DiagonalDifference\bin\Debug\netcoreapp3.1\DiagonalDifference.dll
+C:\Users\d77co\source\repos\examAdvance\DiagonalDifference\DiagonalDifference\bin\Debug\netcoreapp3.1\DiagonalDifference.pdb
+C:\Users\d77co\source\repos\examAdvance\DiagonalDifference\DiagonalDifference\obj\Debug\netcoreapp3.1\DiagonalDifference.csproj.AssemblyReference.cache
+C:\Users\d77co\source\repos\examAdvance\DiagonalDifference\DiagonalDifference\obj\Debug\netcoreapp3.1\DiagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d77co\source\repos\examAdvance\DiagonalDifference\DiagonalDifference\obj\Debug\netcoreapp3.1\DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\d77co\source\repos\examAdvance\DiagonalDifference\DiagonalDifference\obj\Debug\netcoreapp3.1\DiagonalDifference.AssemblyInfo.cs
+C:\Users\d77co\source\repos\examAdvance\DiagonalDifference\DiagonalDifference\obj\Debug\netcoreapp3.1\DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\d77co\source\repos\examAdvance\DiagonalDifference\DiagonalDifference\obj\Debug\netcoreapp3.1\DiagonalDifference.dll
+C:\Users\d77co\source\repos\examAdvance\DiagonalDifference\DiagonalDifference\obj\Debug\netcoreapp3.1\DiagonalDifference.pdb
+C:\Users\d77co\source\repos\examAdvance\DiagonalDifference\DiagonalDifference\obj\Debug\netcoreapp3.1\DiagonalDifference.genruntimeconfig.cache
